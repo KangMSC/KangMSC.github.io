@@ -33,6 +33,10 @@ algolia:
   search_only_api_key: 70e7f825189717a08b57ea2378fa2920
   powered_by: true
 
+google_site_verification: "miXqjMyUgmXDRP62KH27D3dYZ4Px7TH0OK67Hjapbns"
+naver_site_verification: "2182463b2694afe676c80431e593f1c0468dae09"
+bing_site_verification: "AFB8EAEECA6C43A35EA0DD1443371070"
+
 defaults:
   # _posts
   - scope:
