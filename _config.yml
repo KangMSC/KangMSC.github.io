@@ -37,6 +37,12 @@ google_site_verification: "miXqjMyUgmXDRP62KH27D3dYZ4Px7TH0OK67Hjapbns"
 naver_site_verification: "2182463b2694afe676c80431e593f1c0468dae09"
 bing_site_verification: "AFB8EAEECA6C43A35EA0DD1443371070"
 
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/KangMSC"
+
 defaults:
   # _posts
   - scope:
