@@ -38,6 +38,12 @@ plugins:
 minimal_mistakes_skin: "dark"
 locale: "ko-KR"
 
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark"
+    issue_term: "pathname"
+
 defaults:
   # _posts
   - scope:
@@ -51,13 +57,6 @@ defaults:
       comments: true
       share: true
       related: true
-
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-dark"
-    issue_term: "pathname"
-    label: "comment"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
