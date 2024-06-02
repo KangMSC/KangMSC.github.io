@@ -1,0 +1,7 @@
+docs:
+  - title: 블로그
+    children:
+      - title: "Redis"
+        url: /categories/redis
+      - title: "기타"
+        url: /categories/etc
